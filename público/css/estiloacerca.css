@@ -1,1 +1,15 @@
 
+h1{
+    font-size: 300%;
+  font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    text-align: center;
+    color: #A569BD  ;
+}
+h2{
+    font-size: 300%;
+    font-weight: bold;
+    font-family: "Arial Narrow";
+    text-align: center;
+    color: #E59866 ;
+}
