@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.mastertwo')
 @section('frase', 'INGRESA POR FAVOR TU USUARIO Y CONTRASEÑA')
 @section('title', 'login')
 
